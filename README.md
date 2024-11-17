@@ -7,11 +7,11 @@ Este proyecto es una aplicación de gestión de productos construida con **React
 - **Agregar Productos**: Formulario para agregar productos con nombre, imagen y precio.
 - **Listar Productos**: Vista en tarjetas que muestra los productos agregados.
 
-##Tecnologías 
+## Tecnologías 
 
 - **React**
 - **TypeScript**
 
-##Visualización
+## Visualización
 El proyecto debe ser ejecutado en el local host 
 
